@@ -1,0 +1,33 @@
+1WWfa2-00015g-KI-D
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  pi@raspberrypi
+    (generated from root@raspberrypi)
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <root@raspberrypi>
+Received: from root by raspberrypi with local (Exim 4.80)
+	(envelope-from <root@raspberrypi>)
+	id 1WWfZz-00015c-A9
+	for root@raspberrypi; Sun, 06 Apr 2014 06:25:18 +0100
+From: root@raspberrypi (Cron Daemon)
+To: root@raspberrypi
+Subject: Cron <root@raspberrypi> test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+Content-Type: text/plain; charset=UTF-8
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <E1WWfZz-00015c-A9@raspberrypi>
+Date: Sun, 06 Apr 2014 06:25:15 +0100
+
+/etc/cron.daily/fstrim:
+fstrim: /: FITRIM ioctl failed: Operation not supported
+run-parts: /etc/cron.daily/fstrim exited with return code 1
+/etc/cron.daily/logrotate:
+apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName

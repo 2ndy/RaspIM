@@ -1,0 +1,17 @@
+TARGETS = bootlogs motd killprocs single rpcbind nfs-common rsyslog hostapd dnsmasq mysql atd lighttpd ntp ssh apache2 exim4 isc-dhcp-server cron rsync plymouth rmnologin rc.local
+INTERACTIVE = apache2
+single: killprocs bootlogs motd
+dnsmasq: rsyslog
+mysql: rsyslog
+atd: rsyslog
+lighttpd: rsyslog
+ntp: rsyslog
+ssh: rsyslog
+apache2: rsyslog dnsmasq
+exim4: rsyslog dnsmasq mysql
+isc-dhcp-server: rsyslog dnsmasq
+cron: rsyslog dnsmasq
+rsync: rsyslog dnsmasq
+plymouth: rpcbind nfs-common exim4 rsyslog dnsmasq mysql atd lighttpd hostapd isc-dhcp-server bootlogs motd cron ntp ssh rsync apache2
+rmnologin: rpcbind nfs-common exim4 rsyslog dnsmasq mysql atd lighttpd hostapd isc-dhcp-server bootlogs motd cron ntp ssh rsync apache2
+rc.local: rpcbind nfs-common exim4 rsyslog dnsmasq mysql atd lighttpd hostapd isc-dhcp-server bootlogs motd cron ntp ssh rsync apache2

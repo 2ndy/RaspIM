@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/php5
+/usr/share/php5/mysql
+/usr/share/php5/mysql/mysql.ini
+/usr/share/php5/mysql/mysqli.ini
+/usr/share/php5/mysql/pdo_mysql.ini
+/usr/share/doc
+/usr/lib
+/usr/lib/php5
+/usr/lib/php5/20100525+lfs
+/usr/lib/php5/20100525+lfs/mysqli.so
+/usr/lib/php5/20100525+lfs/mysql.so
+/usr/lib/php5/20100525+lfs/pdo_mysql.so
+/usr/share/doc/php5-mysql

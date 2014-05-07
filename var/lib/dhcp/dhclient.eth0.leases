@@ -1,0 +1,36 @@
+lease {
+  interface "eth0";
+  fixed-address 192.168.0.112;
+  server-name "HG520b";
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.0.1;
+  option dhcp-lease-time 864000;
+  option dhcp-message-type 5;
+  option domain-name-servers 8.8.8.8,8.8.4.4;
+  option dhcp-server-identifier 192.168.0.1;
+  option dhcp-renewal-time 432000;
+  option dhcp-rebinding-time 756000;
+  option host-name "dhcppc12";
+  option domain-name "";
+  renew 0 2014/04/06 22:55:02;
+  rebind 4 2014/04/10 22:21:52;
+  expire 6 2014/04/12 04:21:52;
+}
+lease {
+  interface "eth0";
+  fixed-address 192.168.0.112;
+  server-name "HG520b";
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.0.1;
+  option dhcp-lease-time 864000;
+  option dhcp-message-type 5;
+  option domain-name-servers 8.8.8.8,8.8.4.4;
+  option dhcp-server-identifier 192.168.0.1;
+  option dhcp-renewal-time 432000;
+  option dhcp-rebinding-time 756000;
+  option host-name "dhcppc12";
+  option domain-name "";
+  renew 3 2014/04/02 04:23:05;
+  rebind 3 2014/04/02 04:23:05;
+  expire 3 2014/04/02 04:23:05;
+}

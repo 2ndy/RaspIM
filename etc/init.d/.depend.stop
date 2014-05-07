@@ -1,0 +1,14 @@
+TARGETS = fake-hwclock urandom hostapd atd lighttpd apache2 exim4 isc-dhcp-server plymouth dnsmasq mysql sendsigs rsyslog umountnfs.sh rpcbind nfs-common hwclock.sh networking umountfs umountroot halt reboot
+dnsmasq: exim4 apache2
+mysql: exim4
+sendsigs: exim4 dnsmasq atd lighttpd hostapd mysql isc-dhcp-server plymouth apache2
+rsyslog: exim4 dnsmasq atd lighttpd mysql isc-dhcp-server sendsigs apache2
+umountnfs.sh: exim4 dnsmasq atd lighttpd hostapd sendsigs mysql isc-dhcp-server rsyslog plymouth apache2
+rpcbind: umountnfs.sh
+nfs-common: umountnfs.sh
+hwclock.sh: atd mysql rsyslog nfs-common
+networking: rpcbind umountnfs.sh exim4 dnsmasq lighttpd mysql isc-dhcp-server apache2
+umountfs: rpcbind urandom umountnfs.sh exim4 dnsmasq networking hwclock.sh atd lighttpd hostapd mysql isc-dhcp-server plymouth apache2
+umountroot: fake-hwclock umountfs
+halt: umountroot
+reboot: umountroot

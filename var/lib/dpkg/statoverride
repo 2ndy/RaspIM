@@ -1,0 +1,4 @@
+root mlocate 2755 /usr/bin/mlocate
+root ssl-cert 710 /etc/ssl/private
+root Debian-exim 640 /etc/exim4/passwd.client
+root crontab 2755 /usr/bin/crontab

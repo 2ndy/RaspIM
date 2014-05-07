@@ -1,0 +1,26 @@
+1WWMb0-00016t-Oa-H
+Debian-exim 101 103
+<>
+1396688942 0
+-ident Debian-exim
+-received_protocol local
+-body_linecount 28
+-max_received_linelength 256
+-allow_unqualified_recipient
+-allow_unqualified_sender
+-frozen 1396688943
+-localerror
+XX
+1
+root@raspberrypi
+
+141P Received: from Debian-exim by raspberrypi with local (Exim 4.80)
+	id 1WWMb0-00016t-Oa
+	for root@raspberrypi; Sat, 05 Apr 2014 10:09:02 +0100
+036  X-Failed-Recipients: pi@raspberrypi
+029  Auto-Submitted: auto-replied
+055F From: Mail Delivery System <Mailer-Daemon@raspberrypi>
+021T To: root@raspberrypi
+059  Subject: Mail delivery failed: returning message to sender
+044I Message-Id: <E1WWMb0-00016t-Oa@raspberrypi>
+038  Date: Sat, 05 Apr 2014 10:09:02 +0100

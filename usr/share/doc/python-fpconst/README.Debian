@@ -1,0 +1,7 @@
+fpconst for Debian
+------------------
+
+This module was packaged within python-soappy before, therefore
+it conflicts with python-soappy (<< 0.12.0~rc1-1).
+
+ -- Bernd Zeimetz <bernd@bzed.de>  Sat, 24 Mar 2007 00:14:22 +0100

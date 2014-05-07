@@ -1,0 +1,171 @@
+
+Template: isc-dhcp-server/config_warn
+Type: note
+Description: Manual configuration required after installation
+ After the DHCP server is installed, you will need to manually configure it
+ by editing the file /etc/dhcp/dhcpd.conf. Please note that the dhcpd.conf
+ supplied is just a sample, and must be adapted to the network environment.
+ .
+ Please configure the DHCP server as soon as the installation finishes.
+Description-ca.UTF-8: Es necessària la configuració manual després de la instal·lació del servidor de DHCP
+ Després d'instal·lar el servidor de DHCP haureu de configurar-lo manualment editant el fitxer «/etc/dhcp/dhcpd.conf». Tingueu en compte que la configuració proporcionada pel fitxer «dhcpd.conf» només és un exemple que cal personalitzar per a que s'adapti al seu entorn de xarxa.
+ .
+ Configurau el servidor de DHCP el més aviat possible en haver acabar la instal·lació.
+Description-cs.UTF-8: Po instalaci je třeba provést ruční nastavení
+ Po instalaci DHCP serveru jej bude třeba ještě ručně nastavit úpravou souboru /etc/dhcp/dhcpd.conf. Vezměte prosím v potaz, že dodávaný dhcpd.conf je pouze příklad a musí být přizpůsoben síťovému prostředí.
+ .
+ DHCP server nastavte co nejdříve po dokončení instalace.
+Description-da.UTF-8: Manuel konfiguration krævet efter installation
+ Efter DHCP-serveren er installeret, skal du manuelt konfigurere den ved at redigere filen /etc/dhcp/dhcpd.conf. Bemærk venligst at den angivne dhcpd.conf kun er et eksempel, og skal tilpasses til netværksmiljøet.
+ .
+ Konfigurer venligst DHCP-serveren så snart installationen er færdig.
+Description-de.UTF-8: Manuelle Einstellungen nach der Installation erforderlich
+ Nachdem der DHCP-Server installiert wurde, müssen Sie ihn manuell durch Anpassen der Datei /etc/dhcp/dhcpd.conf einrichten. Bitte beachten Sie, dass die mitgelieferte Datei dhcpd.conf nur ein Beispiel ist und an die Netzwerkumgebung angepasst werden muss.
+ .
+ Bitte richten Sie den DHCP-Server sofort nach der Installation ein.
+Description-es.UTF-8: Es necesaria una configuración manual después de la instalación el servidor de DHCP
+ Después de instalar el servidor de DHCP necesitará configurarlo manualmente editando el fichero «/etc/dhcp/dhcpd.conf». Tenga en cuenta que se proporciona un fichero dhcpd.conf de ejemplo, pero que la configuración que lleva es sólo un ejemplo que debe personalizar para que se adapte a su propio entorno de red.
+ .
+ Por favor, configure el servidor de DHCP tan pronto como finalice la instalación.
+Description-fr.UTF-8: Configuration du serveur DHCP requise après l'installation
+ Après l'installation du serveur DHCP, vous devrez le configurer vous-même en modifiant le fichier /etc/dhcp/dhcpd.conf. Veuillez noter qu'un exemple de fichier dhcpd.conf est fourni, mais que cette configuration est partielle et qu'elle doit être adaptée à votre environnement réseau.
+ .
+ Veuillez configurer le serveur DHCP dès la fin de l'installation.
+Description-gl.UTF-8: Hai que realizar configuración manual trala instalación
+ Despois de instalar o servidor DHCP ha ter que configuralo a man editando o ficheiro /etc/dhcp/dhcpd.conf. Teña en conta que o ficheiro dhcp.conf que se fornece é só un exemplo que hai que adaptar ao ambiente de rede.
+ .
+ Configure o servidor DHCP tan pronto como remate a instalación.
+Description-it.UTF-8: È necessaria una configurazione manuale al termine dell'installazione
+ Terminata l'installazione del server DHCP, è necessario configurarlo andando a modificare manualmente il file /etc/dhcp/dhcpd.conf. Notare che il file dhcpd.conf fornito è solo un semplice esempio e deve essere adattato alle caratteristiche della rete.
+ .
+ Configurare il server DHCP al termine dell'installazione.
+Description-ja.UTF-8: インストール後に手動での設定が必要です
+ DHCP サーバのインストール後、/etc/isc-dhcp/dhcpd.conf ファイルを編集して手動で設定を行う必要があります。提供されている dhcpd.conf は単なるサンプルであり、ネットワーク環境に応じて修正が必要であることに注意してください。
+ .
+ インストール完了後、すぐに DHCP サーバの設定を行ってください。
+Description-nl.UTF-8: Na de installatie is handmatige configuratie noodzakelijk
+ Nadat de DHCP-server is geïnstalleerd, zal u deze nog handmatig moeten configureren door het bestand /etc/dhcp/dhcpd.conf te wijzigen. Merk op dat het reeds aanwezige bestand dhcpd.conf slechts een voorbeeld is dat moet worden aangepast aan uw eigen netwerkomgeving.
+ .
+ U wordt aangeraden om de DHCP-server te configureren zodra de installatie is voltooid.
+Description-pl.UTF-8: Po instalacji konieczna jest ręczna konfiguracja
+ Po zainstalowaniu serwera DHCP należy go ręcznie skonfigurować, edytując plik /etc/dhcp/dhcpd.conf. Proszę zauważyć, że dostarczony dhcpd.conf jest jedynie przykładem, który należy dostosować do swojego środowiska sieciowego.
+ .
+ Proszę skonfigurować serwer DHCP zaraz po zakończeniu instalacji.
+Description-pt.UTF-8: É necessária configuração manual depois da instalação
+ Depois de instalado o servidor de DHCP terá de o configurar manualmente editando o ficheiro /etc/dhcp/dhcpd.conf. Por favor note que o dhcpd.conf fornecido é apenas um exemplo e tem de ser adaptado ao ambiente de rede.
+ .
+ Por favor configure o servidor de DHCP mal acabe a instalação.
+Description-pt_BR.UTF-8: Configuração manual requerida após a instalação
+ Após a instalação do servidor DHCP, será necessário configurá-lo manualmente editando o arquivo /etc/dhcp/dhcpd.conf. Por favor, note que o arquivo dhcpd.conf fornecido é apenas um exemplo, e deve ser adaptado ao ambiente de rede.
+ .
+ Por favor, configure o servidor DHCP logo após a instalação ser finalizada.
+Description-ru.UTF-8: После установки требуется ручная настройка
+ После того как DHCP-сервер установлен, вам нужно вручную настроить его, отредактировав файл /etc/dhcp/dhcpd.conf. Обратите внимание, что устанавливается всего лишь пример файла dhcpd.conf, и его нужно адаптировать к существующей сети.
+ .
+ Пожалуйста, настройте DHCP-сервер сразу после завершения установки.
+Description-sv.UTF-8: Manuell konfiguration krävs efter installationen
+ Efter att DHCP-servern är installerad behöver du manuellt konfigurera den genom att ändra i filen /etc/isc-dhcp/dhcpd.conf. Observera att dhcpd.conf-filen som skickas med endast är ett exempel och behöver ändras för att passa den aktuella nätverksmiljön.
+ .
+ Konfigurera DHCP-servern så fort som installationen är färdigställd.
+Description-vi.UTF-8: Sau khi cài đặt thì cũng cần cấu hình bằng tay
+ Một khi cài đặt trình phục vụ DHCP thì bạn cần phải tự cấu hình nó bằng cách chỉnh sửa tập tin « /etc/dhcp/dhcpd.conf ». Ghi chú rằng tập tin « dhcpd.conf » có sẵn chỉ là một mẫu thí dụ mà bạn cần phải điều chỉnh để thích hợp với môi trường mạng.
+ .
+ Một khi cài đặt thì hãy cấu hình trình phục vụ DHCP.
+
+Template: isc-dhcp-server/interfaces
+Type: string
+Description: Network interfaces on which the DHCP server should listen:
+ Please specify on which network interface(s) the DHCP server should
+ listen for DHCP requests. Multiple interface names should be entered
+ as a space-separated list.
+ .
+ The interfaces will be automatically detected if this field is left
+ blank.
+Description-ca.UTF-8: Interfícies de xarxa en las quals cal que el servidor de DHCP escolti:
+ Especifiqueu el/els nom/s de les interfícies de xarxa en les que el servidor de DHCP hauria d'escoltar a la recerca de peticions de DHCP. Feu servir una llista separada per espais si voleu especificar més d'un nom d'interfície.
+ .
+ Se detectaran les interfícies de forma automàtica si deixau aquest camp en blanc.
+Description-cs.UTF-8: Síťová rozhraní, na kterých má DHCP server naslouchat:
+ Zadejte prosím, na kterých síťových rozhraních má DHCP server naslouchat DHCP požadavkům. Zadáváte-li více rozhraní, oddělte je mezerou.
+ .
+ Ponecháte-li toto políčko prázdné, rozhraní budou automaticky rozpoznána.
+Description-da.UTF-8: Netværksgrænseflader hvorpå DHCP-serveren skal lytte:
+ Angiv venligst på hvilke netværksgrænseflader DHCP-serveren skal lytte efter DHCP-forespørgsler. Flere grænsefladenavne skal indtastes som en mellemrumsadskilt liste.
+ .
+ Grænsefladerne vil automatisk blive registreret, hvis dette felt efterlades tomt.
+Description-de.UTF-8: Netzwerkschnittstelle, an der der DHCP-Server auf Anfragen warten soll:
+ Bitte geben Sie die Netzwerkschnittstelle(n) ein, an der bzw. denen der DHCP-Server auf DHCP-Anfragen warten soll. Mehrere Schnittstellennamen sollten in einer Liste, durch Leerzeichen getrennt, eingegeben werden.
+ .
+ Die Schnittstellen werden automatisch erkannt, falls hier nichts eingegeben wird.
+Description-es.UTF-8: Interfaces de red en las que debe escuchar el servidor de DHCP:
+ Introduzca el o los nombres de las interfaces de red en las que el servidor de DHCP debería escuchar en busca de solicitudes de DHCP. Utilice una lista separada por espacios si quiere especificar múltiples nombres de interfaz.
+ .
+ Se detectarán las interfaces de forma automática si deja este campo en blanco.
+Description-eu.UTF-8: DHCP zerbitzariak entzun behar dituen sare interfazeak:
+ Mesedez ezarri DHCP zerbitzariak zein interfazeetan DHCP eskariak entzun behar dituen . Interfaze anitz ezartzeko zuriunez bereiziriko zerrenda batetan idatzi itzazu.
+ .
+ Interfazeak automatikoki antzemango dira eremu hau zurian utziaz gero.
+Description-fi.UTF-8: Verkkoliitynnät, joita DHCP-palvelimen tulisi kuunnella:
+ Anna verkkoliitynnät, joista DHCP-palvelimen tulisi kuunnella DHCP-pyyntöjä. Useampia liityntöjä voidaan antaa välilyönnein eroteltuna.
+ .
+ Liitynnät etsitään automaattisesti, jos tämä kenttä jätetään tyhjäksi.
+Description-fr.UTF-8: Interfaces réseau où le serveur DHCP sera à l'écoute :
+ Veuillez indiquer, séparés par des espaces, les noms des interfaces réseaux que le relais DHCP doit tenter de configurer. 
+ .
+ Les interfaces seront automatiquement détectées si ce champ est vide.
+Description-gl.UTF-8: Interfaces de rede nos que o servidor DHCP ten que escoitar:
+ Indique en que interface(s) de rede debe escoitar por peticións DHCP o servidor DHCP. Pódense introducir varios nomes de interface separándoos mediante espazos.
+ .
+ Hanse detectar as interfaces automaticamente se deixa este campo baleiro.
+Description-it.UTF-8: Interfacce di rete sulle quali il server DHCP deve stare in ascolto:
+ Specificare su quali interfacce di rete il server DHCP deve stare in ascolto per le richieste DHCP. Più interfacce di rete devono essere inserite come un elenco separato da spazi.
+ .
+ Le interfacce saranno rilevate automaticamente se questo campo è lasciato vuoto.
+Description-ja.UTF-8: DHCP サーバが待ち受ける必要のあるネットワークインターフェイス:
+ どのネットワークインターフェイスで DHCP サーバは DHCP リクエストを待ち受けるのかを指定してください。複数のインターフェイス名は空白で区切ったリストで入力する必要があります。
+ .
+ 値が入力されなかった場合、インターフェイスは自動的に検出されます。
+Description-ko.UTF-8: DHCP 서버가 대기하고 있을 네트워크 인터페이스 목록:
+ DHCP 서버가 DHCP 요청에 대기하고 있늘 네트워크 인터페이스의 목록을 지정해 주십시오. 여러 개를 입력하실 경우에는 빈칸으로 연결하십시오.
+ .
+ 이 항목을 비워둘 경우에는 인터페이스를 자동으로 감지합니다.
+Description-nl.UTF-8: Netwerkinterface(s) waarop de DHCP-server moet luisteren:
+ Geef aan welke netwerkinterfaces de DHCP-server moet uitluisteren voor binnenkomende DHCP-verzoeken (bijvoorbeeld: "eth0"). Als u meerdere namen van interfaces opgeeft, dienen deze te worden gescheiden door spaties.
+ .
+ Als dit veld leeg wordt gelaten, zullen de interfaces automatisch gedetecteerd worden.
+Description-pl.UTF-8: Interfejsy sieciowe na których powinien nasłuchiwać serwer DHCP:
+ Proszę podać interfejs(y) sieciowe, na których serwer DHCP powinien nasłuchiwać żądań DHCP. Można podać kilka nazw, oddzielając je spacjami.
+ .
+ Interfejsy zostaną wykryte automatycznie, jeśli to pole pozostanie puste.
+Description-pt.UTF-8: Interfaces de rede nas quais o servidor DHCP deve ouvir:
+ Por favor especifique em que interface(s) de rede deve o servidor de DHCP escutar por pedidos DHCP. Vários nomes de interfaces devem ser introduzidos como uma lista separada por espaços.
+ .
+ As interfaces vão ser detectadas automaticamente se este campo for deixado em branco.
+Description-pt_BR.UTF-8: Interfaces de rede nas quais o servidor DHCP deverá escutar:
+ Por favor, especifique em qual(is) interface(s) de rede o servidor DHCP deverá escutar requisições DHCP. Múltiplos nomes de interface podem ser informados usando uma lista separada por espaços.
+ .
+ As interfaces serão automaticamente detectadas se este campo for deixado em branco.
+Description-ru.UTF-8: Сетевые интерфейсы, на которых будет работать DHCP-сервер:
+ Укажите сетевой(ые) интерфейс(ы), с которых сервер DHCP должен принимать DHCP-запросы. Можно указать несколько интерфейсов через пробел.
+ .
+ Если это поле оставить пустым, интерфейсы будут определены автоматически.
+Description-sk.UTF-8: Sieťové rozhrania, na ktorých má DHCP server počúvať:
+ Prosím, uveďte na ktorých sieťových rozhraniach by mal DHCP server počúvať DHCP požiadavky. Viaceré názvy rozhraní sa zadávajú ako zoznam oddelený medzerami.
+ .
+ Ak pole necháte nevyplnené, rozhrania budú detekované automaticky.
+Description-sv.UTF-8: Nätverksgränssnitt där DHCP-servern skall lyssna:
+ Vänligen ange vilket/vilka nätverksgränssnitt som DHCP-vidarebefordringsdemonen skall lyssna efter förfrågningar på. Om flera gränssnitt anges skall dessa vara separerade med mellanslag.
+ .
+ Nätverksgränssnitten kommer automatiskt identifieras om detta fält lämnas tomt.
+Description-ta.UTF-8: டிஹெச்சிபி(DHCP) சேவயகம் செவி சாய்க்க வலையமைப்பு இடைமுகங்கள்:
+ டிஹெச்சிபி(DHCP) சேவயகம் எந்த வலையமைப்பு இடைமுகங்களுக்கு செவி சாய்க்க வேண்டுமென குறிப்பிடவும். நீங்கள் பல இடைமுக பெயர்களை இடைவெளியால் பிரித்த பட்டியலாக குறிப்பிடலாம்.
+ .
+ இந்த புலம் வெற்றாக விடப்பட்டால் இடைமுகங்கள் தானியங்கியாக கண்டுபிடிக்கப்படும்.
+Description-tr.UTF-8: DHCP sunucusunun dinleyeceği ağ arayüzleri:
+ Lütfen DHCP sunucusunun DHCP isteklerini dinlemesi gereken ağ arayüzlerini belirtin. Birden fazla arayüz ismi var ise bunlar boşluklarla ayrılmış bir liste halinde girilmelidir.
+ .
+ Bu alan boş bırakılırsa arayüzler otomatik olarak bulunacaktır.
+Description-vi.UTF-8: Giao diện mạng nào trên đó trình phục vụ DHCP nên lắng nghe:
+ Hãy ghi rõ trên những giao diện mạng nào trình phục vụ DHCP nên lắng nghe yêu cầu DHCP. Nhiều tên giao diện nên được nhập trong danh sách định giới bằng dấu cách.
+ .
+ Bỏ trống trường này thì tự động phát hiện giao diện.

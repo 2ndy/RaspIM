@@ -1,0 +1,8 @@
+Log of fsck -C -a -t ext4 /dev/mmcblk0p2 
+Sun Apr  6 03:17:03 2014
+
+fsck from util-linux 2.20.1
+/dev/mmcblk0p2: clean, 40744/215296 files, 287739/948480 blocks
+
+Sun Apr  6 03:17:03 2014
+----------------

@@ -1,0 +1,15 @@
+20dfa39d9202ffb9b69c186cb973a9b2  /etc/apt/listchanges.conf
+a786b883251d029bbf4cd418325eef64  /etc/idmapd.conf
+ddcb1fbb90a14ff9850f22eed0127a10  /etc/default/nfs-common
+bfa961ed634b3f54a49c38b2c88537cc  /etc/php5/mods-available/pdo.ini
+cdc6698ce82b1cc4bc087553647d3b67  /etc/php5/cli/php.ini
+29f7729de178b69c113a697bbc0035ce  /etc/php5/apache2/php.ini
+e7305cbdc4c7983bd61222ec6769a315  /etc/php5/mods-available/gd.ini
+926313d8ee40ceba1ca804839990bf6a  /etc/php5/mods-available/mcrypt.ini
+4ec7c759a1bbf616bd5fc64e46852ed0  /etc/php5/mods-available/mysql.ini
+f236e54661cdcf871dd7e4baf9abbea4  /etc/php5/mods-available/mysqli.ini
+abfa801b4820233d1fcf18d3e15db635  /etc/php5/mods-available/pdo_mysql.ini
+458108b20f63fe3deb3b9bc1a7efc154  /etc/dbconfig-common/config
+6a8a15c3a5a35c126ec083db3fd8c593  /etc/dbconfig-common/phpmyadmin.conf
+29f7729de178b69c113a697bbc0035ce  /etc/php5/cgi/php.ini
+d45831297edbcd0a91241398c05b90a2  /etc/phpmyadmin/config-db.php

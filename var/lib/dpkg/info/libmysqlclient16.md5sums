@@ -1,0 +1,5 @@
+c56b49bec09f803915173fbb20c2956a  usr/lib/libmysqlclient.so.16.0.0
+d1e9786a0e90caf5b5280dce8f07df3e  usr/lib/libmysqlclient_r.so.16.0.0
+e2d761434a62ebe0434e3cd10dd0e470  usr/share/doc/libmysqlclient16/changelog.Debian.gz
+6fbaf8c471b492b4f7b576a224377c8b  usr/share/doc/libmysqlclient16/changelog.gz
+b51cc26bef9509f0e768708f4028f2a2  usr/share/doc/libmysqlclient16/copyright

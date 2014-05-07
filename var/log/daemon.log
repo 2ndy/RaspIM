@@ -1,0 +1,122 @@
+Apr  6 06:28:16 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 06:28:16 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 06:28:16 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 06:28:16 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 06:29:43 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: authenticated
+Apr  6 06:44:19 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 06:44:19 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 06:44:19 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 06:44:19 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 06:49:15 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: authenticated
+Apr  6 06:49:15 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: associated (aid 1)
+Apr  6 06:49:15 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 RADIUS: starting accounting session 5340B92B-00000007
+Apr  6 06:49:15 raspberrypi dnsmasq-dhcp[1930]: DHCPDISCOVER(wlan0) a4:77:60:e9:a1:78 
+Apr  6 06:49:15 raspberrypi dnsmasq-dhcp[1930]: DHCPOFFER(wlan0) 192.168.5.206 a4:77:60:e9:a1:78 
+Apr  6 06:49:44 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: authenticated
+Apr  6 06:49:44 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: associated (aid 1)
+Apr  6 06:49:44 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 RADIUS: starting accounting session 5340B92B-00000008
+Apr  6 06:49:44 raspberrypi dnsmasq-dhcp[1930]: DHCPDISCOVER(wlan0) a4:77:60:e9:a1:78 
+Apr  6 06:49:44 raspberrypi dnsmasq-dhcp[1930]: DHCPOFFER(wlan0) 192.168.5.206 a4:77:60:e9:a1:78 
+Apr  6 06:50:00 raspberrypi dnsmasq-dhcp[1930]: DHCPDISCOVER(wlan0) a4:77:60:e9:a1:78 
+Apr  6 06:50:00 raspberrypi dnsmasq-dhcp[1930]: DHCPOFFER(wlan0) 192.168.5.206 a4:77:60:e9:a1:78 
+Apr  6 06:50:00 raspberrypi dnsmasq-dhcp[1930]: DHCPREQUEST(wlan0) 192.168.5.206 a4:77:60:e9:a1:78 
+Apr  6 06:50:00 raspberrypi dnsmasq-dhcp[1930]: DHCPACK(wlan0) 192.168.5.206 a4:77:60:e9:a1:78 Windows-Phone
+Apr  6 07:00:22 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 07:00:22 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 07:00:22 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 07:00:22 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 07:16:25 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 07:16:25 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 07:16:25 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 07:16:25 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 07:32:28 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 07:32:28 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 07:32:28 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 07:32:28 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 07:48:31 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 07:48:31 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 07:48:31 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 07:48:31 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 08:04:34 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 08:04:34 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 08:04:34 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 08:04:34 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 08:20:37 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 08:20:37 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 08:20:37 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 08:20:37 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 08:30:26 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: authenticated
+Apr  6 08:30:26 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: associated (aid 1)
+Apr  6 08:30:26 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 RADIUS: starting accounting session 5340B92B-00000009
+Apr  6 08:36:40 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 08:36:40 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 08:36:40 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 08:36:40 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 08:39:46 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: authenticated
+Apr  6 08:39:46 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 IEEE 802.11: associated (aid 1)
+Apr  6 08:39:46 raspberrypi hostapd: wlan0: STA a4:77:60:e9:a1:78 RADIUS: starting accounting session 5340B92B-0000000A
+Apr  6 08:39:46 raspberrypi dnsmasq-dhcp[1930]: DHCPDISCOVER(wlan0) a4:77:60:e9:a1:78 
+Apr  6 08:39:46 raspberrypi dnsmasq-dhcp[1930]: DHCPOFFER(wlan0) 192.168.5.206 a4:77:60:e9:a1:78 
+Apr  6 08:39:46 raspberrypi dnsmasq-dhcp[1930]: DHCPREQUEST(wlan0) 192.168.5.206 a4:77:60:e9:a1:78 
+Apr  6 08:39:46 raspberrypi dnsmasq-dhcp[1930]: DHCPACK(wlan0) 192.168.5.206 a4:77:60:e9:a1:78 Windows-Phone
+Apr  6 08:52:42 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 08:52:42 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 08:52:42 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 08:52:42 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 09:08:45 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 09:08:45 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 09:08:45 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 09:08:45 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 09:24:48 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 09:24:48 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 09:24:48 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 09:24:48 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 09:40:51 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 09:40:51 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 09:40:51 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 09:40:51 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 09:43:39 raspberrypi hostapd: wlan0: STA 4c:25:78:14:76:10 IEEE 802.11: authenticated
+Apr  6 09:43:39 raspberrypi hostapd: wlan0: STA 4c:25:78:14:76:10 IEEE 802.11: associated (aid 3)
+Apr  6 09:43:39 raspberrypi hostapd: wlan0: STA 4c:25:78:14:76:10 RADIUS: starting accounting session 5340B92B-0000000B
+Apr  6 09:43:43 raspberrypi dnsmasq-dhcp[1930]: DHCPDISCOVER(wlan0) 4c:25:78:14:76:10 
+Apr  6 09:43:43 raspberrypi dnsmasq-dhcp[1930]: DHCPOFFER(wlan0) 192.168.5.35 4c:25:78:14:76:10 
+Apr  6 09:43:43 raspberrypi dnsmasq-dhcp[1930]: DHCPDISCOVER(wlan0) 4c:25:78:14:76:10 
+Apr  6 09:43:43 raspberrypi dnsmasq-dhcp[1930]: DHCPOFFER(wlan0) 192.168.5.35 4c:25:78:14:76:10 
+Apr  6 09:43:44 raspberrypi dnsmasq-dhcp[1930]: DHCPREQUEST(wlan0) 192.168.5.35 4c:25:78:14:76:10 
+Apr  6 09:43:44 raspberrypi dnsmasq-dhcp[1930]: DHCPACK(wlan0) 192.168.5.35 4c:25:78:14:76:10 
+Apr  6 09:45:19 raspberrypi hostapd: wlan0: STA 4c:25:78:14:76:10 IEEE 802.11: disassociated
+Apr  6 09:56:54 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 09:56:54 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 09:56:54 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 09:56:54 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 10:12:57 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 10:12:57 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 10:12:57 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 10:12:57 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 10:29:00 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 10:29:00 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 10:29:00 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 10:29:00 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 10:45:03 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 10:45:03 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 10:45:03 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 10:45:03 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 11:01:06 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 11:01:06 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 11:01:06 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 11:01:06 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 11:04:24 raspberrypi hostapd: wlan0: STA 84:29:99:4a:b6:9f IEEE 802.11: authenticated
+Apr  6 11:04:24 raspberrypi hostapd: wlan0: STA 84:29:99:4a:b6:9f IEEE 802.11: associated (aid 3)
+Apr  6 11:04:24 raspberrypi hostapd: wlan0: STA 84:29:99:4a:b6:9f RADIUS: starting accounting session 5340B92B-0000000C
+Apr  6 11:04:36 raspberrypi dnsmasq-dhcp[1930]: DHCPDISCOVER(wlan0) 84:29:99:4a:b6:9f 
+Apr  6 11:04:36 raspberrypi dnsmasq-dhcp[1930]: DHCPOFFER(wlan0) 192.168.5.51 84:29:99:4a:b6:9f 
+Apr  6 11:04:36 raspberrypi dnsmasq-dhcp[1930]: DHCPDISCOVER(wlan0) 84:29:99:4a:b6:9f 
+Apr  6 11:04:36 raspberrypi dnsmasq-dhcp[1930]: DHCPOFFER(wlan0) 192.168.5.51 84:29:99:4a:b6:9f 
+Apr  6 11:04:37 raspberrypi dnsmasq-dhcp[1930]: DHCPREQUEST(wlan0) 192.168.5.51 84:29:99:4a:b6:9f 
+Apr  6 11:04:37 raspberrypi dnsmasq-dhcp[1930]: DHCPACK(wlan0) 192.168.5.51 84:29:99:4a:b6:9f iPad-de-Diana
+Apr  6 11:17:09 raspberrypi ntpd_intres[2082]: host name not found: 0.debian.pool.ntp.org
+Apr  6 11:17:09 raspberrypi ntpd_intres[2082]: host name not found: 1.debian.pool.ntp.org
+Apr  6 11:17:09 raspberrypi ntpd_intres[2082]: host name not found: 2.debian.pool.ntp.org
+Apr  6 11:17:09 raspberrypi ntpd_intres[2082]: host name not found: 3.debian.pool.ntp.org
+Apr  6 11:18:45 raspberrypi hostapd: wlan0: STA 84:29:99:4a:b6:9f IEEE 802.11: disassociated
+Apr  6 11:18:46 raspberrypi hostapd: wlan0: STA 84:29:99:4a:b6:9f IEEE 802.11: deauthenticated due to inactivity

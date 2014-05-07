@@ -1,0 +1,10 @@
+8bcf84e723789edc7b6f68e9f012c634  usr/sbin/dhcpd
+2e88015083f506b1a8438ea7ecfa0afb  usr/share/doc/isc-dhcp-server/NEWS.Debian.gz
+c90e8fe760c7d357e245d164a7615a71  usr/share/doc/isc-dhcp-server/README.Debian
+089f1844ab2a66478297005731a7b6fc  usr/share/doc/isc-dhcp-server/changelog.Debian.gz
+6fa20b8ad86e433a76968e90d6809a51  usr/share/doc/isc-dhcp-server/copyright
+10979e7b71134bd7f04d2a60bd58f070  usr/share/doc/isc-dhcp-server/examples/dhcpd.conf
+c676bc89e8b496f528d15e416bcd2fad  usr/share/lintian/overrides/isc-dhcp-server
+2192256d3a9f87723d8f05656e342f73  usr/share/man/man5/dhcpd.conf.5.gz
+8bb441523b30f0f977a6c7dc66e64b1d  usr/share/man/man5/dhcpd.leases.5.gz
+5b36517ae445df6c25140b7e2f1522ce  usr/share/man/man8/dhcpd.8.gz
